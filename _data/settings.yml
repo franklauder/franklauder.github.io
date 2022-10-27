@@ -1,11 +1,10 @@
 basic_settings:
-  site_title: Project Portfolio
-  site_tagline: Hi.  My name is Frank Lauder.  I'm a professional who uses machine learning and predictive 
-  analytics to solve everyday issues.  I'm based in Boston, MA. 
-  favicon_image: '/images/Profile.jpg'
+  site_title: "Project Portfolio"
+  site_tagline: "Site for machine learning and predictive analytics projects."
+  favicon_image: 
 
 header_settings:
-  avatar_image: #/images/avatar.jpg
+  avatar_image: /images/avatar.jpg
   logo_image: 
   logo_width: 200
 
