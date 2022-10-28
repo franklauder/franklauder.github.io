@@ -4,10 +4,11 @@ subtitle: 'Time Series'
 date: 2018-06-30 00:00:00
 featured_image: '/images/Seasonal-plot.png'
 excerpt: 'This project uses Time Series analysis for predicting Direct Loan Disbursements.'
+
 ---
 
 
 
 
-[Forecasting Direct Loans Project](https://franklauder.github.io/TS-Project/Forecasting.htm){:target="_blank"}{:trl"noopener no referrer"}
+[Forecasting Direct Loans Project](https://franklauder.github.io/TS-Project/Forecasting.htm){:target="_blank"}
 
