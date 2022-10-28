@@ -1,6 +1,6 @@
 ---
 title: 'Forecasting Federal Direct Loan Disbursements'
-subtitle: 'Time Series'
+subtitle: 
 date: 2018-06-30 00:00:00
 featured_image: '/images/Seasonal-plot.png'
 excerpt: 'This project uses Time Series analysis for predicting Direct Loan Disbursements.'
@@ -8,7 +8,7 @@ excerpt: 'This project uses Time Series analysis for predicting Direct Loan Disb
 ---
 
 
+<a href="https://franklauder.github.io/TS-Project/Forecasting.htm "targets="_blank" rel="noreferrer noopener">Title </a>
 
-
-[Forecasting Direct Loans Project](https://franklauder.github.io/TS-Project/Forecasting.htm){:target="_blank"}
+#[Forecastinng Loans](https://franklauder.github.io/TS-Project/Forecasting.htm)#{:target="_blank"}
 
