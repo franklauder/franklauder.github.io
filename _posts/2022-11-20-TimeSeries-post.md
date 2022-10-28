@@ -1,4 +1,5 @@
 ---
+layout: default
 title: 'Forecasting Direct Student Loans'
 date: 2021-08-22 00:00:00
 featured_image: '/images/Seasonal-plot.png'
