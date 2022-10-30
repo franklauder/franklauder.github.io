@@ -65,9 +65,10 @@ color_settings:
   text_light_color: '#ABB7B7'
   accent_color: '#ee983d'
   border_color: '#f7d7b6'
-  overlay_background_color: '#161B21'
+  overlay_background_color: '#FFA07A'
   overlay_text_color: '#ffffff'
   error_color: '#D64541'
+  # #161B21
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Nunito:300,400,400i,600" rel="stylesheet">'
