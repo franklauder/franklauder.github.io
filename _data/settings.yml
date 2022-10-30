@@ -1,10 +1,10 @@
 basic_settings:
   site_title: "Project Portfolio"
   site_tagline: "Welcome.  I created this site to display my machine learning and predictive analytics projects."
-  favicon_image: 
+  favicon_image: /images/profile.jpg
 
 header_settings:
-  avatar_image: "/images/profile.jpg" 
+  avatar_image: /images/avatar.jpg 
   logo_image: 
   logo_width: 200
 
