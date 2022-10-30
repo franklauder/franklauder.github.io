@@ -5,7 +5,7 @@ basic_settings:
   avatar_image:'/images/avatar.jpg'
 
 header_settings:
-  avatar_image: /images/avatar.jpg
+  avatar_image: '/images/avatar.jpg'
   logo_image: 
   logo_width: 200
 
