@@ -4,7 +4,7 @@ basic_settings:
   favicon_image: /images/favicon.png
 
 header_settings:
-  avatar_image: <img src="/images/avatar.jpg" alt="">
+  avatar_image: ![image](/images/avatar.jpg)
   logo_image: 
   logo_width: 200
 
