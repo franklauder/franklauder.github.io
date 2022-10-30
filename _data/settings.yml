@@ -4,7 +4,8 @@ basic_settings:
   favicon_image: /images/favicon.png
 
 header_settings:
-  avatar_image: images/avatar.jpg"
+  avatar_image: <img src="{{ site.data.settings.header_settings.avatar_image | relative_url }}" class="header__avatar__img">
+		</a>
   logo_image: 
   logo_width: 200
 
