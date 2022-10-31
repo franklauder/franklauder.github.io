@@ -17,4 +17,4 @@ Retaining newly enrolled undergraduate students is very important for a college.
 
 <br/><br/>
 
-<a href="https://franklauder.github.com/persist/newUnder.htm">.</a>Persistance Classification Project
+<a href="https://franklauder.github.com/persist/newUnder.htm">Persistance Classification Project</a>
