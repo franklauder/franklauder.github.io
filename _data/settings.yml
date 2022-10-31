@@ -59,14 +59,14 @@ social_settings:
 
 color_settings:
   background_color: '#FA8072'
-  background_alt_color: '#FFA07A'
+  background_alt_color: '#f6ddcc'
   text_dark_color: '#2A2F36'
   text_medium_color: '#6C7A89'
   text_light_color: '#ABB7B7'
   accent_color: '#ee983d'
   border_color: '#f7d7b6'
   overlay_background_color: '#FFA07A'
-  overlay_text_color: '#ffffff'
+  overlay_text_color: '#4a235a '
   error_color: '#D64541'
   
 
