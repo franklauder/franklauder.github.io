@@ -10,6 +10,8 @@ excerpt:  'This project uses Time Series analysis for predicting Direct Loan Dis
 
 <br/><br/>
 
+![](/images/Decomposition.png)
+
 <br/><br/>
 
 
