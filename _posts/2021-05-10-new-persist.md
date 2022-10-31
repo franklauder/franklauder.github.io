@@ -9,7 +9,7 @@ excerpt:  'Predcting new enrolled students persistnce using classification model
 
 <br/><br/>
 
-![](/images/new-under/roc-curve.png.png)
+![](/images/new-under/roc-curve.png)
 
 <br/><br/>
 
@@ -17,4 +17,4 @@ Retaining newly enrolled undergraduate students is very important for a college.
 
 <br/><br/>
 
-<a href="https://franklauder.github.io/persist/newUnder.htm">.</a>Persistance Classification Project
+<a href="https://franklauder.github.com/persist/newUnder.htm">.</a>Persistance Classification Project
