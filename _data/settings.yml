@@ -58,8 +58,8 @@ social_settings:
   linkedin_url: 'https://www.linkedin.com/in/franklauder/'
 
 color_settings:
-  background_color: '#ffffff'
-  background_alt_color: '#f4f5f6'
+  background_color: '#FFA07A'
+  background_alt_color: '#FA8072'
   text_dark_color: '#2A2F36'
   text_medium_color: '#6C7A89'
   text_light_color: '#ABB7B7'
@@ -68,7 +68,7 @@ color_settings:
   overlay_background_color: '#FFA07A'
   overlay_text_color: '#ffffff'
   error_color: '#D64541'
-  # #161B21
+  
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Nunito:300,400,400i,600" rel="stylesheet">'
