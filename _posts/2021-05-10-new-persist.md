@@ -32,7 +32,7 @@ To access the project, click on the *Persistence Classification* Project link be
 
 
 
- <a href="https://franklauder.github.io/persist/newUnder.htm">Persistance Classification Project.</a>
+ <a href="https://franklauder.github.io/persist/newUnder.htm" class="button button--large">Persistance Classification Project.</a>
 
  
 
