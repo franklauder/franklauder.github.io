@@ -2,7 +2,7 @@ basic_settings:
   site_title: "Project Portfolio"
   site_tagline: "Welcome to my site.  Here you will find my machine learning and predictive analytics 
   projects on display.   Keep coming back periodically as I will be  adding more projects."
-  favicon_image: /images/favicon.png
+  favicon_image: /images/insight-logo.png
   
 
 header_settings:
