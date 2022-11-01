@@ -21,7 +21,12 @@ excerpt:  'Predcting new enrolled students persistnce using classification model
 
 <br/><br/>
 
-Retaining newly enrolled undergraduate students is very important for a college.  In changing economic times improving the rentention rate even buy a small percentage can mean a great deal for a college.  Tuition dependent colleges have very little room to manuver when it comes to cashflow.  I createde this project with the goal of creating classifcation models that would predict which students were at risk of not returning.  To access the project click on the link below. 
+Retaining new enrolled undergraduate students is of utmost importance for colleges.  Changing economic times has only increased the urgency of improving retention rates.  Many colleges are tuition dependent and have little room to maneuver when it comes to cashflow.  Improving retention even buy a small percentage can mean college budgets remaining in the black.  It’s because of this urgency that I started this project.  The goal of was to create classification models that can predict which students are at risk of not returning.  
+
+To access the project, click on the *Persistence Classification* Project link below.
+
+
+
 
 <br/><br/>
 

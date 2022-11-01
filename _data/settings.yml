@@ -1,6 +1,7 @@
 basic_settings:
   site_title: "Project Portfolio"
-  site_tagline: "Welcome.  I created this site to display my machine learning and predictive analytics projects."
+  site_tagline: "Welcome to my site.  Here you will find my machine learning and predictive analytics 
+  projects on display.   Keep on coming back as more projects will be added periodically."
   favicon_image: /images/favicon.png
   
 
