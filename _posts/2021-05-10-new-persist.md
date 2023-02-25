@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 'Predicting New Undergraduate Persistance'
+title: 'Predicting Undergraduate Persistence'
 subtitle: 'Machine Learning: Classification'
 date: 2021-10-05 00:00:00
 featured_image: '/images/new-under/enroll-spring.png'
-excerpt:  'Predicting new enrolled students persistance using classification models'
+excerpt:  'Predicting new enrolled students persistence using classification models'
 
 ---
 
@@ -35,13 +35,8 @@ To access the project, click on the *Persistence Classification* Project link be
 
 
 
- <a href="https://franklauder.github.io/persist/newUnder.htm" class="button button--large">Persistance Classification Project.</a>
+ <a href="https://franklauder.github.io/persist/newUnder.htm" class="button button--large">Persistence Classification Project.</a>
 
  <br/><br/>
 
- Raw code for this project can be found on my Github page.  The analysis with code included can be accessed by clicking *Persistance Classification with Code* link below.  
-
- <br/><br/>
-
-
- <a href="https://franklauder.github.io/persist/newUnderCode.htm" class="button button--large">Persistance Classification Project-with codet.</a>
+ Raw code for this project can be found on my Github page.  
