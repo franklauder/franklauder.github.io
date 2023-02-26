@@ -2,7 +2,7 @@
 layout: default
 title: 'Undergradute Segmentation'
 subtitle: 'Unsupervised Learning: Clustering'
-date: 2021-10-05 00:00:00
+date: 2022-03-10 00:00:00
 featured_image: '/images/segmentation/cluster_map.png'
 excerpt:  'Segmenting first time undergraduates with clustering.'
 
