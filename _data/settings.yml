@@ -1,10 +1,10 @@
 basic_settings:
   site_title: "Project Portfolio"
-  site_tagline: "Welcome to my site.  Here you will find my machine learning and predictive analytics 
-  projects on display.   
+  site_tagline: "Welcome to my site.  Here you will find my machine learning and predictive analytics
+  projects on display.
   Keep coming back periodically as I will be  adding more projects."
   favicon_image: /images/insight-logo.png
-  
+
 
 header_settings:
   avatar_image: '/images/avatar.jpg'
@@ -15,8 +15,8 @@ menu_settings:
   menu_items:
     - title: 'Latest'
       url: '/'
-    - title: 'Projects'
-      url: '/projects/'
+    - title: 'Deep Learning'
+      url: '/deep learning/'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
@@ -61,7 +61,7 @@ social_settings:
 
 color_settings:
   background_color: '#fdebd0'
- 
+
   background_alt_color: '#5dade2'
   text_dark_color: '#1b4f72'
   text_medium_color: '#1f618d'
@@ -70,9 +70,9 @@ color_settings:
   border_color: '#78281f'
   overlay_background_color: '#6e2c00'
 
-  overlay_text_color: '#1b4f72' 
+  overlay_text_color: '#1b4f72'
   error_color: '#D64541'
-  
+
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Nunito:300,400,400i,600" rel="stylesheet">'
