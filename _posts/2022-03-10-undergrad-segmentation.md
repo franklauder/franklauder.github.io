@@ -41,4 +41,4 @@ To access the project, click on the *Undergraduate Segmentation* Project link be
 
  <br/><br/>
 
- Raw code for this project can be found on my Github page.  
+ Raw code for this project can be found at my Github repository.  
