@@ -38,4 +38,4 @@ To access the project, click on the *Insurance Fraud* link below.
 
  <br/><br/>
 
- Raw code for this project can be found on my Github repository.
+ Raw code for this project can be found at my Github repository.
