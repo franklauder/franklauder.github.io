@@ -8,15 +8,15 @@ basic_settings:
 
 header_settings:
   avatar_image: '/images/avatar.jpg'
-  logo_image: 
+  logo_image:
   logo_width: 200
 
 menu_settings:
   menu_items:
     - title: 'Latest'
       url: '/'
-    - title: 'Deep Learning'
-      url: '/deep learning/'
+    - title: 'Projects'
+      url: '/projects/'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
