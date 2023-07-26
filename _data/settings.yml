@@ -15,8 +15,8 @@ menu_settings:
   menu_items:
     - title: 'Latest'
       url: '/'
-    - title: 'Spark'
-      url: '/spark/'
+    - title: 'Big Data'
+      url: '/big data/'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
