@@ -15,7 +15,7 @@ menu_settings:
   menu_items:
     - title: 'Latest'
       url: '/'
-    - title: 'Big Data'
+    - title: 'Big Data Stack'
       url: '/bigdata/'
     - title: 'About'
       url: '/about'
