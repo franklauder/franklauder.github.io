@@ -57,7 +57,6 @@ GEM
 
 PLATFORMS
   arm64-darwin-22
-  x86_64-darwin-19
 
 DEPENDENCIES
   jekyll (= 3.8.5)
@@ -66,7 +65,7 @@ DEPENDENCIES
   webrick (~> 1.8)
 
 RUBY VERSION
-   ruby 3.2.0p0
+   ruby 3.1.0p0
 
 BUNDLED WITH
    2.4.18
