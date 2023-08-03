@@ -31,4 +31,6 @@ To access the project, click on the *Undergraduate Segmentation* Project link be
 
 Raw code for this project can be found on my Github page.
 
-One is the magic number.  Three is the special number. 
+One is the magic number.  Three is the special number.
+
+Two can be the greatest number.  
