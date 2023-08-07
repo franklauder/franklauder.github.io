@@ -41,4 +41,6 @@ Five is the beatles at the beginning
 
 Six is the rolling stones
 
-Seven is the gap band. 
+Seven is the gap band.
+
+eight is earth wind and fire
