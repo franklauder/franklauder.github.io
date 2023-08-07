@@ -4,7 +4,7 @@ title: 'Segmenting First Time Undergradute Students'
 subtitle: 'Unsupervised Learning: Clustering'
 date: 2021-10-05 00:00:00
 featured_image: '/images/segmentation/cluster_map.png'
-excerpt:  'Using clustering to determine needs of diferent student populations.'
+excerpt:  'Using clustering to determine needs of different student populations.'
 
 ---
 

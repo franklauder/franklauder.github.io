@@ -2,7 +2,7 @@
 title: 'My Porfolio'
 description: 'Professional and personal projects.'
 subtitle:
-featured_image:'/images/Screenshot.png'
+featured_image: '/images/Screenshot.png'
 ---
 
 
