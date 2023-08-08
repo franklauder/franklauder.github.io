@@ -37,7 +37,7 @@ To access the project, click on the *Insurance Fraud* link below.
 
 
 
- <a href="https://github.com/franklauder/AutoInsuranceFraud/blob/main/InsuranceFraud.htm" class="button button--large">Persistence Classification.</a>
+ <a href="https://github.com/franklauder/AutoInsuranceFraud/InsuranceFraud.htm" class="button button--large">Insurance Fraud.</a>
 
  <br/><br/>
 
