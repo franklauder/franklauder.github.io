@@ -28,7 +28,7 @@ Fraud is a prevalent concern in many segments of industry and government.  Examp
 To access the project, click on the *Insurance Fraud* link below.
 
 
-Then go check it
+
 
 
 
@@ -37,7 +37,7 @@ Then go check it
 
 
 
- <a href="https://franklauder.github.io/AutoInsuranceFraud/InsuranceFraud.htm" class="button button--large">Persistence Classification.</a>
+ <a href="https://franklauder.github.io/AutoInsuranceFraud/InsuranceFraud.html" class="button button--large">Persistence Classification.</a>
 
  <br/><br/>
 
