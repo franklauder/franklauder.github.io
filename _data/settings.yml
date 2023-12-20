@@ -1,8 +1,8 @@
 basic_settings:
   site_title: "Project Portfolio"
-  site_tagline: "Welcome to my site.  Here you will find my machine learning and predictive analytics
-  projects on display.
-  Keep coming back periodically as I will be  adding more projects."
+  site_tagline: "Welcome to my site, where you can explore my showcased machine
+  learning and predictive analytics models.
+   Browse through the projects section to discover applications utilizing Amazon Web Services and deep learning. Be sure to revisit regularly, as I am continuously adding new projects."
   favicon_image: /images/insight-logo.png
 
 
@@ -29,7 +29,7 @@ contact_settings:
   form_action: ''
   confirmation_url:
   email_subject:
-  send_button_text: 
+  send_button_text:
 
 social_settings:
   facebook_url: ''
