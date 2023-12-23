@@ -23,13 +23,15 @@ excerpt: 'Finding insights on graduate student loan defaults using classificatio
 <br/><br/>
 
 
-While reviewing default rates among students across the entire
-college population, I observed that the percentage of graduate
-students defaulting on federal student loans was not significantly
-different from the undergraduate default rate. This finding was
-surprising, given that studies on undergraduate loan borrowers
-typically suggest that those who leave without obtaining a
-degree are more likely to default than those who graduate.
+While reviewing default rates among students
+across the entire college population, I observed
+that the percentage of graduate students
+defaulting on federal student loans was not
+significantly different from the undergraduate
+default rate. This finding was surprising, given
+that studies on undergraduate loan borrowers
+typically suggest that those who leave without obtaining
+a degree are more likely to default than those who graduate.
 
 Naturally, students entering graduate programs already
 hold undergraduate degrees, eliminating the possibility
