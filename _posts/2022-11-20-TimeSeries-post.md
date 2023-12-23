@@ -15,8 +15,9 @@ excerpt:  'This project uses Time Series analysis for predicting Direct Loan Dis
 <br/><br/>
 
 
-The idea of this project began with how information was provided to the Finance office for budgeting purposes.  Information
-provided was  projections based on previous years disbursements.  These projections were at best an educated guess.  Direct Loans are the largest source of revenue for the college thus an accurate picture of funding not based on an educated guess was needed.  For a realistic picture of future Direct Loan disbursements, I turned to Time Series methods.  With these techniques I forecast Direct Loan disbursements a year into the future providing solid information to work with.  
+The project originated from concerns about the way information was presented to the Finance office for budgeting purposes. The provided information consisted of projections derived from previous years' disbursements. However, these projections were, at best, educated guesses. Given that Direct Loans constitute the college's primary revenue source, it became imperative to have a more accurate representation of funding that was not reliant on mere estimation.
+
+To obtain a realistic picture of future Direct Loan disbursements, I employed Time Series methods. Through these techniques, I was able to forecast Direct Loan disbursements for the upcoming year, offering a more reliable and solid foundation for decision-making.
 
 The project can be accessed by clicking the *Loan Forecast Project* the link below.  For those who are interested in the code used for this project you can check it out at my Github repository.
 
@@ -32,4 +33,5 @@ The project can be accessed by clicking the *Loan Forecast Project* the link bel
 
 <a href="https://franklauder.github.io/Forecasting-Student-Loans/Forecasting.htm" class="button button--large">Loan Forecasting Project.</a>
 
-More text
+
+what can we do
