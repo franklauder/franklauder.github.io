@@ -2,7 +2,7 @@
 layout: default
 title: 'Analyzing Graduate Student Loan Defaults'
 subtitle:'Machine Learning: Classification, Clustering'
-date: 2020-09-10 00:00:00
+date: 2020-08-26 00:00:00
 featured_image: '/images/gradDefault/clustDefault.png'
 excerpt: 'Finding insights on graduate student loan defaults using classification and clustering methods'
 
@@ -12,7 +12,7 @@ excerpt: 'Finding insights on graduate student loan defaults using classificatio
 
 
 
-![](/images/gradDefault/imp_feat.png)
+![](/images/gradDefault/Imp_feat.png)
 
 
 
