@@ -2,7 +2,7 @@ basic_settings:
   site_title: "Project Portfolio"
   site_tagline: "Welcome to my site, where you can explore my showcased machine
   learning and predictive analytics models.
-   Browse through the projects section to discover applications utilizing Amazon Web Services and deep learning. Be sure to revisit regularly, as I am continuously adding new projects."
+   Browse through the projects section to discover applications utilizing Amazon Web Services and deep learning. Be sure to revisit regularly, as I am continuously adding new projects. Yes"
   favicon_image: /images/insight-logo.png
 
 
@@ -15,8 +15,8 @@ menu_settings:
   menu_items:
     - title: 'Latest'
       url: '/'
-    - title: 'Project'
-      url: '/project/'
+    - title: 'Projects'
+      url: '/projects/'
     - title: 'About'
       url: '/about'
     - title:
