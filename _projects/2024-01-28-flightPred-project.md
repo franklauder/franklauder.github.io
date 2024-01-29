@@ -6,7 +6,7 @@ featured_image: '/images/flights/flight5.jpg'
 excerpt: 'Late flights are a burden on both carriers and customers.'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/flights/flight5.jpg)
 
 ## Demo content
 
