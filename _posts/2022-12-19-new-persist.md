@@ -23,8 +23,9 @@ excerpt:  'Predicting persistence of new enrolled students using classification 
 <br/><br/>
 
 
-Improving upon a students first term experience is a major factor in their decision to return for the next term.
-Retaining new enrolled undergraduate students is of utmost importance for colleges. Changing economic times has only increased the urgency of improving retention rates. Many colleges are tuition dependent and have little room to maneuver when it comes to cashflow. Improving retention even buy a small percentage can keep college budgets in the black. It’s because of this urgency that I started this project. The goal of which was to create classification models that can predict which students are at risk of not returning.
+Enhancing a student's first-term experience is a pivotal factor influencing their decision to return for subsequent terms. The retention of newly enrolled undergraduate students holds paramount importance for colleges, particularly in the face of changing economic times that have heightened the urgency of improving retention rates. Many colleges, being tuition-dependent, find themselves with limited maneuverability in terms of cash flow.
+
+Even a marginal improvement in retention rates can be instrumental in keeping college budgets in the black. It is this sense of urgency that prompted the initiation of this project. The overarching goal was to develop classification models capable of predicting which students are at risk of not returning.
 
 To access the project, click on the Persistence Classification link below.
 

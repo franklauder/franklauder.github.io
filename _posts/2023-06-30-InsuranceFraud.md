@@ -23,7 +23,7 @@ excerpt: 'Classifying auto insurance claims as fraudulent or non-fraudulent'
 <br/><br/>
 
 
-Fraud is a prevalent concern in many segments of industry and government.  Examples are healthcare, auto insurance, and unemployment insurance.  This project will focus on auto insurance fraud in India.  Classifying fraudulent claims is our goal yet insuring we do not incorrectly classify non-fraudulent claims from customers will play an important part of model choice.
+Fraud is a prevalent concern in many industry and government sectors, such as healthcare, auto insurance, and unemployment insurance. This project specifically concentrates on addressing auto insurance fraud in India. Our primary goal is to classify fraudulent claims; however, ensuring the accurate classification of non-fraudulent claims from customers will be a critical aspect in selecting the appropriate model.
 
 To access the project, click on the *Insurance Fraud* link below.
 
