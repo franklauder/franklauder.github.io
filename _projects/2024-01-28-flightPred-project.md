@@ -1,6 +1,6 @@
 ---
 title: 'Predicting Flight Arrival Status'
-subtitle:# 'This is a demo'
+#subtitle: 'This is a demo'
 date: 2024-01-28
 featured_image: '/images/flights/flight5.jpg'
 excerpt: 'Late flights are a burden on both carriers and customers.'
