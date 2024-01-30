@@ -44,7 +44,7 @@ To explore the projects, please follow the links below."
 <br/><br/>
 
 
-<a href="https://franklauder.github.io/Flight_Delays/flightAnalysis.htm" class="button button--large">Flight Analysis-Part-One</a>
+<a href="https://franklauder.github.io/Flight_Delays/flightAnalysis.html" class="button button--large">Flight Analysis-Part-One</a>
 
 <br/><br/>
 <br/><br/>
