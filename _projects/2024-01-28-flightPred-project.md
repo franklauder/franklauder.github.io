@@ -27,19 +27,26 @@ but the length of delays also increased.  The Inspector General,U.S. Department 
 * Longer Flight Times
 
 
-"Predicting the punctuality of flights, whether they will arrive late or on time, has become a popular project for many enthusiasts. For my project, I opted to amalgamate domestic flight data spanning from 2009 to 2018. The combined dataset comprises sixty million rows, offering a substantial dataset for distributed computing. To handle this extensive dataset, I chose to utilize Amazon Web Services EMR.
-The project is divided into two Jupyter notebooks. The initial section focuses on feature engineering and data exploration, while the second part involves applying various classification models to predict the flight arrival status.
-To explore the projects, please follow the links below."
+<br/><br/>
 
 
 
 [Air Carrier Flight DelaysReport Number: CC-2000-303
 and Customer Service](https://www.oig.dot.gov/sites/default/files/cc2000303.pdf).
 
+<br/><br/>
+<br/><br/>
 
 
+"Predicting the punctuality of flights, whether they will arrive late or on time, has become a popular project for many enthusiasts. For my project, I opted to amalgamate domestic flight data spanning from 2009 to 2018. The combined dataset comprises sixty million rows, offering a substantial dataset for distributed computing. To handle this extensive dataset, I chose to utilize Amazon Web Services EMR.
+The project is divided into two Jupyter notebooks. The initial section focuses on feature engineering and data exploration, while the second part involves applying various classification models to predict the flight arrival status.
+To explore the projects, please follow the links below."
 
-<a href="https://franklauder.github.io/Predicting-Student-Loan-Defaults/gradDefault.html" class="button button--large">Late Flights</a>
+
+<br/><br/>
+<br/><br/>
+
+<a href="https://franklauder.github.io/Predicting-Student-Loan-Defaults/gradDefault.html" class="button button--large">Flight Analysis-Part-One</a>
 
 
 **Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
