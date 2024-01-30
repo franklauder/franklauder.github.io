@@ -44,9 +44,12 @@ To explore the projects, please follow the links below."
 
 
 <br/><br/>
-<br/><br/>
 
-<a href="https://franklauder.github.io/Predicting-Student-Loan-Defaults/gradDefault.html" class="button button--large">Flight Analysis-Part-One</a>
+
+<a href="https://franklauder.github.io/Flight_Delays/flightAnalysis.html" class="button button--large">Flight Analysis-Part-One</a>
+
+<br/><br/>
+<br/><br/>
 
 
 **Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
