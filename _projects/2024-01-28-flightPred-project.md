@@ -10,7 +10,7 @@ inconvenience of delays in terms of missed flight connections, missed business
 meetings, and lost personal time.'
 ---
 
-![](/images/flights/flight5.jpg)
+![](/images/flights/dep_min_del.jpg)
 
 ## What causes flight delays?
 
