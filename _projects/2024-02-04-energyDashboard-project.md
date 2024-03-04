@@ -3,7 +3,7 @@ title: 'New York Energy Efficiency Dashboard Project'
 #subtitle: 'This is a demo'
 date: 2024-02-04 00:00:00
 featured_image: '/images/energyDasboard/hex_plot.jpg'
-excerpt: This Dashboard utilizes interactive chlorapeth maps in addition to interactive tables to aid in the analyis of theb New York Energy Efficiency program
+excerpt: 'This Dashboard utilizes interactive chlorapeth maps in addition to interactive tables to aid in the analyis of theb New York Energy Efficiency program'
 ---
 
 ![](/images/energyDasboard/tile_plot.jpg)
@@ -21,8 +21,3 @@ The final web application was created using the Shiny and Shiny Dashboard packag
 The project can be accessed via the below link.
 
 <a href="https://lauderf20.shinyapps.io/nyDashboard/" class="button button--large">New York Energy Dashboard Project</a>
-
-
-
-
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
