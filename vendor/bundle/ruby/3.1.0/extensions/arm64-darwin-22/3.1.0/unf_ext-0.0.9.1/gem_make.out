@@ -1,0 +1,16 @@
+current directory: /Users/francislauder/Documents/GitHub/franklauder.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+/Users/francislauder/.asdf/installs/ruby/3.1.0/bin/ruby -I /Users/francislauder/.asdf/installs/ruby/3.1.0/lib/ruby/3.1.0 -r ./siteconf20240513-42514-if8p78.rb extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/francislauder/Documents/GitHub/franklauder.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= clean
+
+current directory: /Users/francislauder/Documents/GitHub/franklauder.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\=
+compiling unf.cc
+linking shared-object unf_ext.bundle
+
+current directory: /Users/francislauder/Documents/GitHub/franklauder.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= install
+/opt/homebrew/bin/ginstall -c -m 0755 unf_ext.bundle ./.gem.20240513-42514-1dxw11
