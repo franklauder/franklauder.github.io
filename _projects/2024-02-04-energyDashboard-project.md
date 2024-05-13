@@ -7,7 +7,7 @@ excerpt: 'This Dashboard utilizes interactive chlorapeth maps in addition to int
 ---
 
 ![](/images/energyDasboard/tile_plot.jpg)
-![](/images/energyDasboard/tile_plot.jpg)
+
 
 This dashboard project utilizes the Residential Home Energy Efficiency dataset, which encompasses various data points offering valuable insights into residential energy efficiency projects conducted in New York State between 2007 and 2012.
 
