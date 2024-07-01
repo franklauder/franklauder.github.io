@@ -8,7 +8,7 @@ excerpt: 'This Dashboard utilizes interactive chlorapeth maps in addition to int
 
 ![](/images/energyDasboard/tile_plot.jpg)
 
-![](images/flights/flight5.jpg)
+#![](images/flights/flight5.jpg)
 
 
 This dashboard project utilizes the Residential Home Energy Efficiency dataset, which encompasses various data points offering valuable insights into residential energy efficiency projects conducted in New York State between 2007 and 2012.
@@ -24,3 +24,9 @@ The final web application was created using the Shiny and Shiny Dashboard packag
 The project can be accessed via the below link.
 
 <a href="https://lauderf20.shinyapps.io/nyDashboard/" class="button button--large">New York Energy Dashboard Project</a>
+
+<br></br>
+
+In addition, I've created a smaller scale dashboard with Tableau using only energy and census data at the  county level.  The Tableau Public link can be accessed via the below link.
+
+<a href="https://public.tableau.com/views/NewYorkEnergyEfficiencyMonitoring/NYEnergyEfficiencyDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" class="button button--large">New York Energy Tableau Dashboard </a>
