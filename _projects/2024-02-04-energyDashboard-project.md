@@ -24,8 +24,3 @@ The final web application was created using the Shiny and Shiny Dashboard packag
 The project can be accessed via the below link.
 
 <a href="https://lauderf20.shinyapps.io/nyDashboard/" class="button button--large">New York Energy Dashboard Project</a>
-
-
-In addition, I've created a smaller scale dashboard with Tableau using only energy and census data at the  county level.  The Tableau Public link can be accessed via the below link.
-
-<a href="https://public.tableau.com/views/NewYorkEnergyEfficiencyMonitoring/NYEnergyEfficiencyDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" class="button button--large">New York Energy Tableau Dashboard </a>
