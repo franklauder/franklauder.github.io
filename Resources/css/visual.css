@@ -128,9 +128,10 @@ text-align: center;
     .page-title {
         font-size: 0.75rem;
         grid-column-start: 2;
-        grid-column-end: 3;
+        grid-column-end: 4;
         grid-row: 1;
-        padding-left: 0.5em;
+        padding-left: 17em;
+        text-align: left;
     }
     
 }
@@ -276,7 +277,7 @@ text-align: center;
 
 @media (480px <= width < 1024px) {
     .navbar ul {
-        width: 600px;
+        width: 500px;
         
     }
     
@@ -320,6 +321,16 @@ text-align: center;
     padding: 0.8em 1em 15px;
     text-align: center;
 }
+
+@media (480px <= width < 1024px) {
+    .navbar li {
+        padding: 11px 11px;
+        
+    }
+    
+}
+
+
 .navbar a {
     text-decoration: none;
     font-size: 1em;
@@ -328,7 +339,7 @@ text-align: center;
 
 @media (480px <= width < 1024px) {
     .navbar a {
-        font-size:0.8rem;
+        font-size:0.7rem;
         
     }
     
@@ -429,7 +440,7 @@ text-align: center;
 
 @media (480px <= width < 1024px) {
     .fa-brands .fa-linkedin {
-        font-size:0.4rem;
+        font-size:0.3rem;
         text-align: center;
         
     }
@@ -485,7 +496,8 @@ text-align: center;
 
 @media (480px <= width < 1024px) {
     .author__name {
-        font-size:1.4rem;
+        font-size:1.2rem;
+        text-align: center;
         
     }
     
@@ -545,7 +557,7 @@ text-align: center;
 
 @media (480px <= width < 1024px) {
     .author__bio {
-        font-size:0.5rem;
+        font-size:0.75rem;
         text-align: center;
         
     }
@@ -616,8 +628,13 @@ text-align: center;
 
 @media (480px <= width < 1024px) {
     .main-text{
-        grid-column: 2;
+        grid-column-start: 2;
+        grid-column-end: 4;
         grid-row: 3 / 4;
+        padding-top: 2.5rem;
+        padding-right: 12rem;
+        text-align: left;
+        width:500;
     }
     
 }
@@ -682,7 +699,7 @@ text-align: center;
 
 @media (480px <= width < 1024px) {
     .introduction{
-        font-size: 0.75rem;
+        font-size: 1.2rem;
     }
     
 }
@@ -724,9 +741,10 @@ text-align: center;
 
 @media (480px <= width < 1024px) {
     .row1{
-        grid-column-start: 1;
+        grid-column-start: 2;
         grid-column-end: 3;
         grid-row: 5;
+        padding-top: 5rem;
     }
     
 }
@@ -802,6 +820,13 @@ text-align: center;
     
     
     
+    }
+
+    @media (480px <= width < 1024px) {
+        .image1{
+            font-size: 0.75rem;
+        }
+        
     }
     
     @media (1024px <= width < 1281px) {
@@ -881,6 +906,8 @@ text-align: center;
     color:white;
     }
     
+
+   
     
     
     .image2 {
@@ -888,6 +915,13 @@ text-align: center;
     font-size: 1rem;
     text-align: left;
     
+    }
+
+    @media (480px <= width < 1024px) {
+        .image2{
+            font-size: 0.6rem;
+        }
+        
     }
 
     @media (1025px <= width < 1281px) {

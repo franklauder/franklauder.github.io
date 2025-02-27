@@ -55,31 +55,7 @@ body {
     
 }
 
-@media (1024px <= width < 1600px) {
-    .container{
-        display: grid;
-        grid-template-columns:40px, repeat(3, 350px);
-        grid-template-rows: 75px 45px 150px 150px repeat(2,300px);
-        gap: 2.5em;
-        width:1400;
-        max-inline-size: 1400px;
-        margin-inline: auto;
-    }
 
-}
-
-@media (min-width:1600px){
-    .container{
-        display: grid;
-        grid-template-columns:50px, 1000px;
-        grid-template-rows: 100px 60px 300px 300px;
-        row-gap: 5rem;
-        width: 1900px;
-        max-inline-size: 1900px;
-        margin-inline: auto;
-    }
-    
-}
 
 @media (1024px <= width < 1281px) {
     .container{
@@ -156,9 +132,10 @@ text-align: center;
     .page-title {
         font-size: 0.75rem;
         grid-column-start: 2;
-        grid-column-end: 3;
+        grid-column-end: 4;
         grid-row: 1;
-        padding-left: 0.5em;
+        padding-left: 17em;
+        text-align: left;
     }
     
 }
@@ -235,8 +212,8 @@ text-align: center;
         grid-column-start: 2;
         grid-column-end: 4;
         grid-row:2;
-        padding-left: 1.5rem;
-        padding-right: 3rem;
+        
+        
         
     }
     
@@ -249,6 +226,7 @@ text-align: center;
         grid-row:2;
         padding-left: 3.5rem;
         padding-right: 2rem;
+        
         
     }
 }
@@ -303,7 +281,8 @@ text-align: center;
 
 @media (480px <= width < 1024px) {
     .navbar ul {
-        width: 600px;
+        width: 500px;
+        
         
     }
     
@@ -346,6 +325,15 @@ text-align: center;
     padding: 15px 15px;
     text-align: center;
 }
+
+@media (480px <= width < 1024px) {
+    .navbar li {
+        padding: 11px 11px;
+        
+    }
+    
+}
+
 .navbar a {
     text-decoration: none;
     font-size: 1em;
@@ -354,7 +342,7 @@ text-align: center;
 
 @media (480px <= width < 1024px) {
     .navbar a {
-        font-size:0.8rem;
+        font-size:0.7rem;
         
     }
     
@@ -456,7 +444,7 @@ text-align: center;
 
 @media (480px <= width < 1024px) {
     .fa-brands .fa-linkedin {
-        font-size:0.4rem;
+        font-size:0.3rem;
         text-align: center;
         
     }
@@ -513,7 +501,8 @@ text-align: center;
 
 @media (480px <= width < 1024px) {
     .author__name {
-        font-size:1.4rem;
+        font-size:1.2rem;
+        text-align: center;
         
     }
     
@@ -573,7 +562,7 @@ text-align: center;
 
 @media (480px <= width < 1024px) {
     .author__bio {
-        font-size:0.5rem;
+        font-size:0.75rem;
         text-align: center;
         
     }
@@ -644,8 +633,13 @@ text-align: center;
 
 @media (480px <= width < 1024px) {
     .main-text{
-        grid-column: 2;
+        grid-column-start: 2;
+        grid-column-end: 4;
         grid-row: 3 / 4;
+        padding-top: 2.5rem;
+        padding-right: 9.5em;
+        text-align: left;
+        width:500;
     }
     
 }
@@ -716,7 +710,7 @@ text-align: center;
 
 @media (480px <= width < 1024px) {
     .introduction{
-        font-size: 0.75rem;
+        font-size: 1.2rem;
     }
     
 }
