@@ -905,12 +905,104 @@ text-align: center;
     background-size: auto;
     color:white;
     }
+
+.image2 {
+
+        font-size: 1em;
+        
+        
+        
+        }
+    
+        @media (480px <= width < 1024px) {
+            .image2{
+                font-size: 0.75rem;
+            }
+            
+        }
+        
+        @media (1024px <= width < 1281px) {
+            .image2{
+                font-size: 1.2em;
+                
+            }
+        }
+        
+        @media (1281px <= width < 1441px) {
+            .image2{
+                font-size: 1em;
+                
+            }
+        
+        }
+        
+        
+        @media (1441px <= width < 1921px) {
+        
+            .image2{
+                font-size: 1.2em;
+                
+            }
+        }
+        
+        @media (min-width:1921px){
+            .image2{
+                font-size: 1.2em;
+                
+            }
+            
+        }
+        
+        
+        
+        .feature-item2 {
+        display: block;
+        
+        }
+        
+        .feature-image2 {
+        opacity: 1;
+        width:100%;
+        height:auto;
+        transition: .9s ease;
+        backface-visibility: hidden;
+        font-size: 5em;
+        
+        }
+        
+        .middle2 {
+        transition:ease;
+        opacity: 0;
+        display:inline-flex;
+        position:relative;
+        padding-left: 30rem;
+        padding-bottom: 12.5em;
+        transform: translate(-50%,-50%);
+        color:black;
+        
+        }
+        
+        .feature-item2:hover .feature-image2 {
+        opacity: 0.3;
+        
+        }
+        
+        .feature-item2:hover .middle2 {
+        opacity: 1;
+        }
+        
+        .project-title2 {
+        font-size: 1em;
+        background-color: #4cAF50;
+        background-size: auto;
+        color:white;
+        }
     
 
    
     
     
-    .image2 {
+    .image3 {
     
     font-size: 1rem;
     text-align: left;
@@ -918,21 +1010,21 @@ text-align: center;
     }
 
     @media (480px <= width < 1024px) {
-        .image2{
+        .image3{
             font-size: 0.6rem;
         }
         
     }
 
     @media (1025px <= width < 1281px) {
-        .image2{
+        .image3{
             font-size: 1.2em;
             
         }
     }
     
     @media (1281px <= width < 1441px) {
-        .image2{
+        .image3{
             font-size: 1.2em;
             
         }
@@ -942,27 +1034,27 @@ text-align: center;
     
     @media (1441px <= width < 1921px) {
     
-        .image2{
+        .image3{
             font-size: 1.2em;
             
         }
     }
     
     @media (min-width:1921px){
-        .image2{
+        .image3{
             font-size: 1.2em;
             
         }
         
     }
     
-    .feature-item2 {
+    .feature-item3 {
         display: block;
     
     }
     
     
-    .feature-image2 {
+    .feature-image3 {
         opacity: 1;
          width:100%;
         height:auto;
@@ -970,7 +1062,7 @@ text-align: center;
         backface-visibility: hidden;
     }
     
-     .middle2 {
+     .middle3 {
         transition:ease;
         opacity: 0;
         display:inline-flex;
@@ -982,16 +1074,16 @@ text-align: center;
     
     }
     
-     .feature-item2:hover .feature-image2 {
+     .feature-item3:hover .feature-image3 {
         opacity: 0.3;
     
     }
     
-     .feature-item2:hover .middle2 {
+     .feature-item3:hover .middle3 {
         opacity: 1;
     }
     
-     .project-title2 {
+     .project-title3 {
         font-size: 1.1em;
         background-color: #4cAF50;
         background-size: auto;
