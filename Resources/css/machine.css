@@ -903,7 +903,7 @@ opacity: 0;
 display:inline-flex;
 position:relative;
 padding-left: 29rem;
-padding-bottom: 14em;
+padding-bottom: 12em;
 transform: translate(-50%,-50%);
 color:black;
 
@@ -927,17 +927,14 @@ color:white;
 
 }
 
-
-
 .image2 {
 
-font-size: 1rem;
-text-align: left;
-
+font-size: 1em;
 
 }
 
-@media (1025px <= width < 1281px) {
+
+@media (1024px <= width < 1281px) {
     .image2{
         font-size: 1.2em;
         
@@ -946,7 +943,7 @@ text-align: left;
 
 @media (1281px <= width < 1441px) {
     .image2{
-        font-size: 1.2em;
+        font-size: 1em;
         
     }
 
@@ -969,13 +966,102 @@ text-align: left;
     
 }
 
+
+
 .feature-item2 {
+display: block;
+
+}
+
+.feature-image2 {
+opacity: 1;
+width:100%;
+height:auto;
+transition: .9s ease;
+backface-visibility: hidden;
+font-size: 5em;
+
+}
+
+.middle2 {
+transition:ease;
+opacity: 0;
+display:inline-flex;
+position:relative;
+padding-left: 29rem;
+padding-bottom: 14em;
+transform: translate(-50%,-50%);
+color:black;
+
+
+}
+
+.feature-item2:hover .feature-image2 {
+opacity: 0.3;
+
+}
+
+.feature-item2:hover .middle2 {
+opacity: 1;
+}
+
+.project-title2 {
+font-size: 0.85em;
+background-color: #4cAF50;
+background-size: auto;
+color:white;
+
+}
+
+
+
+.image3 {
+
+font-size: 1rem;
+text-align: left;
+
+
+}
+
+@media (1025px <= width < 1281px) {
+    .image3{
+        font-size: 1.2em;
+        
+    }
+}
+
+@media (1281px <= width < 1441px) {
+    .image3{
+        font-size: 1.2em;
+        
+    }
+
+}
+
+
+@media (1441px <= width < 2560px) {
+
+    .image3{
+        font-size: 1.2em;
+        
+    }
+}
+
+@media (min-width:2560px){
+    .image3{
+        font-size: 1.2em;
+        
+    }
+    
+}
+
+.feature-item3 {
     display: block;
 
 }
 
 
-.feature-image2 {
+.feature-image3 {
     opacity: 1;
      width:100%;
     height:auto;
@@ -983,7 +1069,7 @@ text-align: left;
     backface-visibility: hidden;
 }
 
- .middle2 {
+ .middle3 {
     transition:ease;
     opacity: 0;
     display:inline-flex;
@@ -995,17 +1081,17 @@ text-align: left;
 
 }
 
- .feature-item2:hover .feature-image2 {
+ .feature-item3:hover .feature-image3 {
     opacity: 0.3;
 
 }
 
- .feature-item2:hover .middle2 {
+ .feature-item3:hover .middle3 {
     opacity: 1;
 }
 
- .project-title2 {
-    font-size: 1.1em;
+ .project-title3 {
+    font-size: 0.75em;
     background-color: #4cAF50;
     background-size: auto;
     color:white;
